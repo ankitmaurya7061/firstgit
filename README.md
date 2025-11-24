@@ -1,3 +1,3 @@
 # firstgit
 This is first git repository
-Author ankit maurya
+Author ankit maurya (amrita)
